@@ -1,6 +1,5 @@
 # Introduction
-This is the replication package for our work accepted by ICSE 2023, i.e., Anonymous Author(s). Identifying Key Classes for Initial Software Comprehension:
-CanWe Do It Better? ASE 2022, 2022.
+This is the replication package for our work accepted by ICSE 2023, i.e., Weifeng Pan, Xin Du, Hua Ming, Dae-Kyoo Kim, Zijiang Yang. Identifying Key Classes for Initial Software Comprehension: Can We Do It Better? in Proceedings of the 45th International Conference on Software Engineering (ICSE 2023), Melbourne, Australia, May 14-20, 2023, pp. xxxx-xxxx.
 
 <font color="#FF0000">Note that</font> we only provide the data set used in our work. Tools used to perform the work will be available after our paper's acceptance.
 
