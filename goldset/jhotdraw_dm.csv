@@ -1,0 +1,10 @@
+ClassName
+org.jhotdraw.framework.Figure
+org.jhotdraw.framework.DrawingEditor
+org.jhotdraw.framework.Drawing
+org.jhotdraw.application.DrawApplication
+org.jhotdraw.framework.Tool
+org.jhotdraw.standard.StandardDrawingView
+org.jhotdraw.framework.DrawingView
+org.jhotdraw.standard.CompositeFigure
+org.jhotdraw.framework.Handle

@@ -1,0 +1,13 @@
+ClassName
+ro.isdc.wro.model.resource.Resource
+ro.isdc.wro.model.resource.locator.UriLocator
+ro.isdc.wro.model.resource.ResourceType
+ro.isdc.wro.model.factory.WroModelFactory
+ro.isdc.wro.model.group.Group
+ro.isdc.wro.model.resource.processor.ResourcePreProcessor
+ro.isdc.wro.model.resource.processor.ResourcePostProcessor
+ro.isdc.wro.manager.WroManager
+ro.isdc.wro.http.WroFilter
+ro.isdc.wro.model.resource.locator.factory.UriLocatorFactory
+ro.isdc.wro.model.WroModel
+ro.isdc.wro.manager.factory.WroManagerFactory

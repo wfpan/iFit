@@ -1,0 +1,13 @@
+ClassName
+org.argouml.uml.cognitive.critics.CrUML
+org.argouml.kernel.History
+org.argouml.kernel.Project
+org.argouml.cognitive.critics.ControlMech
+org.argouml.cognitive.ToDoList
+org.argouml.cognitive.Designer
+org.argouml.cognitive.ToDoItem
+org.argouml.cognitive.critics.Critic
+org.argouml.application.api.Configuration
+org.argouml.ui.ProjectBrowser
+org.argouml.application.api.Argo
+org.argouml.kernel.Wizard
