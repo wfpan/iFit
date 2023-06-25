@@ -12,3 +12,8 @@ This directory contains the <i>true key classes</i> in each subject system. We c
 
 # iFit_SourceCode
 This directory contains the source code of the implementation of iFit.
+
+# Cite our work
+If you use our data set or tool, please cite our work.
+
+Weifeng Pan, Xin Du, Hua Ming, Dae-Kyoo Kim, Zijiang Yang. Identifying Key Classes for Initial Software Comprehension: Can We Do It Better? in Proceedings of the 45th International Conference on Software Engineering (ICSE 2023), Melbourne, Australia, May 14-20, 2023, pp. xxxx-xxxx. [[PDF](#)]
